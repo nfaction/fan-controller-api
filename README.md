@@ -2,7 +2,7 @@
 
 API Endpoint for Fan Remote Controller
 
-![fan-remote-controller](fan-remote-controller.png =250x)
+![fan-remote-controller](fan-remote-controller.png)
 
 ## Parts
 
