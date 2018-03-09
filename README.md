@@ -42,3 +42,4 @@ $ curl http://<wemos-ip>/livingroom?params=0 | python -m json.tool
 ## Resources
 
 * WeMos D1R2 Pinout: <https://wiki.wemos.cc/products:d1:d1>
+* Optocoupler Spec. sheet: <http://www.learningaboutelectronics.com/Articles/Optocoupler-circuit.php>
