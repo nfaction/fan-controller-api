@@ -4,6 +4,8 @@ API Endpoint for Fan Remote Controller
 
 ![fan-remote-controller](fan-remote-controller.png | width=250)
 
+<img src="fan-remote-controller.png" width="250">
+
 ## Parts
 
 * ($5.99) PCB Mount Screw Terminal Blocks: <http://a.co/jd3RjUB>
